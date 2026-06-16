@@ -1,2 +1,2 @@
 # ApexPlanet-Internship---Task-1-Data-Immersion-Wrangling
-Performed data immersion, data quality assessment, data cleaning, and feature engineering on a customer credit card dataset using Python and Pandas. Generated a clean, analysis-ready dataset by handling missing values, checking duplicates, and creating new analytical features.
+Task 1 of the ApexPlanet Data Analytics Internship Program. Performed data immersion, data quality assessment, data cleaning, handling missing values, duplicate detection, date conversion, and feature engineering using Python and Pandas. Generated a clean and analysis-ready dataset for further analytics.
